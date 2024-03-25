@@ -18,7 +18,7 @@
 - 🎸 I play the guitar (and sing too, but only decent at best 😝). I used to be part of a band with my classmates back in senior high school.
 - 🎮 Not only that, playing video games is a hobby of mine too and it is my favorite hobby. Right now, the game I spend a lot of time on is Apex Legends.
 - ⛹️‍♂️ I don't consider myself to be sporty, but I play table tennis 🏓 from time to time. I enjoy watching other sports too such as Formula One 🏎️, tennis 🎾, and basketball 🏀.
-- 📺 When I don't do anything above, I watch YouTube videos, movies, and/or series as my pastime.
+- 📺 When I'm not doing anything above, I watch YouTube videos, movies, and/or series as my pastime.
 
 ## Contact me
 <div align="center">
