@@ -21,10 +21,8 @@
 - 📺 When I'm not doing anything above, I watch YouTube videos, movies, and/or series as my pastime.
 
 ## Contact me
-<div align="center">
-  <a href="https://www.linkedin.com/in/calvin-james-maximo-685145268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="mailto:ctmaximo1@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-</div>
+<a href="https://www.linkedin.com/in/calvin-james-maximo-685145268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:ctmaximo1@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 <!--
 **cjmax34/cjmax34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
