@@ -2,15 +2,17 @@
 
 ## About me 🤓
 - 🌻 I'm a 3rd year BS Computer Science student from the University of the Philippines Diliman.
-- 💻 I don't specialize in anything as of the moment. However, I'm willing to explore fields that align with my interests. Right now, both artificial intelligence and computer security pique my interest, partly because I'm currently taking introductory courses on them.
+- 💻 I'm currently a Software Engineering Intern at Pointwest Innovations Corporation. I'm doing frontend web development in this internship. I am looking to capitalize on this opportunity to hone my frontend web development skills, and get into full-stack web development in the future.
 
 ## I'm currently learning 📔
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
 
 ## I'm currently working on 🖥️
-- [Predicting Stress Level by Training a Multilayer Perceptron](https://github.com/cjmax34/cs180-project): A machine learning project that predicts the stress level of an individual given their sleep health and lifestyle habits. We used Jupyter Notebook, Pandas, NumPy, scikit-learn, Matplotlib, and Seaborn.
+- Project Vantage: A web application that is currently being developed by me and my fellow SWE interns at Pointwest Innovations Corporation.
 
 ## Past projects I've worked on 📘
+- [Forza Horizon 5 AFK Skill Points Farm script](https://github.com/cjmax34/FH5-AFK-SP-Farm): A Python script that automates the farming of skill points in the popular racing game Forza Horizon 5. I made this out of boredom from manually farming skill points.
+- [Predicting Stress Level by Training a Multilayer Perceptron](https://github.com/cjmax34/cs180-project): A machine learning project that predicts the stress level of an individual given their sleep health and lifestyle habits. We used Jupyter Notebook, Pandas, NumPy, scikit-learn, Matplotlib, and Seaborn.
 - [Data Analysis of Dis/misinformative Tweets](https://github.com/cjmax34/CS132-GoldenEra): A data science project that analyzes disinformative tweets to determine the most common reasons why twitter users regard the FEM regime as the "Golden Era." Our team used Python and the Pandas library.
 - [🚙 ISKOmmute](https://github.com/derouru/ISKOmmute): App that serves as a commuting guide in the UP Diliman campus, developed using SvelteKit and MapBox.
 
