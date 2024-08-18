@@ -19,9 +19,6 @@
   
 </div>
 
-## I'm currently learning 📔
-<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
 ## I'm currently working on 🖥️
 - Project Vantage: A web application that is currently being developed by me and my fellow SWE interns at Pointwest Innovations Corporation.
 
