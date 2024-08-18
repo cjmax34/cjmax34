@@ -1,7 +1,7 @@
 # Hi there, I'm CJ! 👋
 
 ## About me 🤓
-- 🌻 I'm a 3rd year BS Computer Science student from the University of the Philippines Diliman.
+- 🌻 I'm a 4th year BS Computer Science student from the University of the Philippines Diliman.
 - 💻 I'm currently a Software Engineering Intern at Pointwest Innovations Corporation. I'm doing frontend web development in this internship. I am looking to capitalize on this opportunity to hone my frontend web development skills, and get into full-stack web development in the future.
 
 ## I'm currently learning 📔
