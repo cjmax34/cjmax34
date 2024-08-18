@@ -20,9 +20,10 @@
 </div>
 
 ## I'm currently working on 🖥️
-- Project Vantage: A web application that is currently being developed by me and my fellow SWE interns at Pointwest Innovations Corporation.
+- Personal Portfolio: I'm remaking my portfolio in Svelte and Tailwind. Link will be up when I feel like it is good enough. 
 
 ## Past projects I've worked on 📘
+- Project Vantage: A full-stack web application for automating the process of matching the roster of employees to new projects. This was developed with my co-interns at Pointwest Innovations Corporation as part of the requirements for the internship program.
 - [Forza Horizon 5 AFK Skill Points Farm script](https://github.com/cjmax34/FH5-AFK-SP-Farm): A Python script that automates the farming of skill points in the popular racing game Forza Horizon 5. I made this out of boredom from manually farming skill points.
 - [Predicting Stress Level by Training a Multilayer Perceptron](https://github.com/cjmax34/cs180-project): A machine learning project that predicts the stress level of an individual given their sleep health and lifestyle habits. We used Jupyter Notebook, Pandas, NumPy, scikit-learn, Matplotlib, and Seaborn for implementing the model. We used Streamlit for making the web app. You can access the web app [here](https://stress-level-mlp.streamlit.app/)!
 - [Data Analysis of Dis/misinformative Tweets](https://github.com/cjmax34/CS132-GoldenEra): A data science project that analyzes disinformative tweets to determine the most common reasons why twitter users regard the FEM regime as the "Golden Era." Our team used Python and the Pandas library.
