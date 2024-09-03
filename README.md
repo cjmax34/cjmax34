@@ -20,7 +20,7 @@
 </div>
 
 ## I'm currently working on 🖥️
-- Personal Portfolio: I'm remaking my portfolio in Svelte and Tailwind. Link will be up when I feel like it is good enough. 
+- [Personal Portfolio](https://cjtmaximo.vercel.app/): I'm remaking my portfolio in Svelte and Tailwind. Check it out! 
 
 ## Past projects I've worked on 📘
 - Project Vantage: A full-stack web application for automating the process of matching the roster of employees to new projects. This was developed with my co-interns at Pointwest Innovations Corporation as part of the requirements for the internship program.
