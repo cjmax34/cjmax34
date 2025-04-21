@@ -20,9 +20,10 @@
 </div>
 
 ## I'm currently working on 🖥️
-- [Personal Portfolio](https://cjtmaximo.vercel.app/): I'm remaking my portfolio in Svelte and Tailwind. Check it out! 
+- Dorm Logging System: I'm currently making a mobile application to be used by the Centennial Residence Hall Management for logging the residents in/out of the dorm seamlessly. I will be adding more features to this app, and its name is not final (yet). I'm using `React Native` and `Supabase` to make the app. 
 
 ## Past projects I've worked on 📘
+- [Personal Portfolio](https://cjtmaximo.vercel.app/): I remade my portfolio in Svelte and Tailwind. Check it out!
 - Project Vantage: A full-stack web application for automating the process of matching the roster of employees to new projects. This was developed with my co-interns at Pointwest Innovations Corporation as part of the requirements for the internship program.
 - [TeddyCare](https://github.com/inunice/teddycare): An Internet-of-Things-powered smart stuffed toy designed for nurturing parent-child relationships by remotely facilitating real-time interactions. I contributed to the web application used for the project. We used `Next.js` and `Firebase` as the frameworks for the web app, and the repository for the web app can be found [here](https://github.com/ry4nd/bearwithme).
 - [Forza Horizon 5 AFK Skill Points Farm script](https://github.com/cjmax34/FH5-AFK-SP-Farm): A `Python` script that automates the farming of skill points in the popular racing game Forza Horizon 5. I made this out of boredom from manually farming skill points.
