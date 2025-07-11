@@ -1,7 +1,7 @@
 # Hi there, I'm CJ! 👋
 
 ## About me 🤓
-- 🌻 I'm a 4th year BS Computer Science student from the University of the Philippines Diliman.
+- 🌻 I recently graduated with a Bachelor of Science in Computer Science from the University of the Philippines Diliman.
 - 💻 I'm a web developer that has experience in the following technologies:
 <div align="center">
   <!--Frontend-->
